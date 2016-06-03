@@ -1,8 +1,10 @@
 #Pwband2csv
 Pwband2csv, a small and simple tool which could transfer the dat file created by band.x(quantum espresso) to the csv list file.
 ##Usage:
-first, compile the c++ file pwband.cpp(both g++ and clang++ are OK).
+First, compile the c++ file pwband.cpp(both g++ and clang++ are OK).
+
 Then, run the program like that:
+
 (the name of the progam you complied into) xx.dat xx.csv
 
 ##Acknowledgements
